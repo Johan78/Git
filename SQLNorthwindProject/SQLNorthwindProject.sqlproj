@@ -109,5 +109,6 @@
     <Build Include="dbo\Stored Procedures\SaySomething.sql" />
     <Build Include="dbo\Stored Procedures\ProductDelete.sql" />
     <Build Include="dbo\Stored Procedures\InsertRegion.sql" />
+    <Build Include="Table1.sql" />
   </ItemGroup>
 </Project>
